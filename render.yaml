@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: imdb-sentiment-analysis
+    env: python
+    buildCommand: "pip install -r requirements.txt && python setup_nltk.py"
+    startCommand: "streamlit run streamlit_app.py --server.headless true --server.address 0.0.0.0 --server.port $PORT"
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.9.16
