@@ -2,6 +2,9 @@
 
 🎬 A comprehensive sentiment analysis application built with Python for movie review analysis, featuring multiple analysis methods, interactive web interface, and machine learning capabilities trained on IMDB movie reviews.
 
+## 🌐 **Live Demo**
+**Try the app now:** [https://imdb-sentiment-analysis-mazt9aoekqckucbjktpg4v.streamlit.app/](https://imdb-sentiment-analysis-mazt9aoekqckucbjktpg4v.streamlit.app/)
+
 ## 🚀 Features
 
 - **Multiple Analysis Methods**: TextBlob, VADER, and custom ML models
