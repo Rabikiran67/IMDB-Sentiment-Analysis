@@ -1,0 +1,101 @@
+review,sentiment,processed_text,sentiment_binary
+Bad movie with weak character development and boring storyline.,negative,bad movie weak character development boring storyline,0
+Boring film that failed to keep me interested. Poor execution.,negative,boring film failed keep interested poor execution,0
+Awful movie with poor direction and disappointing visual effects.,negative,awful movie poor direction disappointing visual effect,0
+Incredible film with excellent acting and a gripping storyline.,positive,incredible film excellent acting gripping storyline,1
+This film is exceptional with amazing acting and a unique storyline.,positive,film exceptional amazing acting unique storyline,1
+Outstanding film with great direction and memorable scenes.,positive,outstanding film great direction memorable scene,1
+Horrible movie with bad emotional depth and terrible visuals.,negative,horrible movie bad emotional depth terrible visuals,0
+This film is absolutely wonderful with great character chemistry.,positive,film absolutely wonderful great character chemistry,1
+Awful film with bad acting and terrible direction. Not recommended.,negative,awful film bad acting terrible direction recommended,0
+This film is a disaster with poor attention to every detail.,negative,film disaster poor attention every detail,0
+Outstanding film with great storytelling and excellent production quality.,positive,outstanding film great storytelling excellent production quality,1
+Great movie with outstanding direction and brilliant cinematography.,positive,great movie outstanding direction brilliant cinematography,1
+This is an exceptional film with great character development.,positive,exceptional film great character development,1
+Terrible film with awful direction and forgettable scenes.,negative,terrible film awful direction forgettable scene,0
+Brilliant film with amazing performances and outstanding direction.,positive,brilliant film amazing performance outstanding direction,1
+This movie is fantastic with great pacing and memorable scenes.,positive,movie fantastic great pacing memorable scene,1
+This movie is horrible with poor dialogue and forgettable moments.,negative,movie horrible poor dialogue forgettable moment,0
+Excellent movie with a unique plot and memorable characters.,positive,excellent movie unique plot memorable character,1
+This film is a masterpiece with incredible attention to every detail.,positive,film masterpiece incredible attention every detail,1
+Bad movie with a weak plot and disappointing special effects.,negative,bad movie weak plot disappointing special effect,0
+Bad film with terrible pacing and awful cinematography.,negative,bad film terrible pacing awful cinematography,0
+Horrible movie with poor performances and a weak plot.,negative,horrible movie poor performance weak plot,0
+One of the best movies I've ever seen. Outstanding in every aspect.,positive,one best movie ive ever seen outstanding every aspect,1
+Terrible movie with poor acting and a confusing narrative.,negative,terrible movie poor acting confusing narrative,0
+This movie is awful with bad pacing and forgettable scenes.,negative,movie awful bad pacing forgettable scene,0
+This film is horrible with disappointing performances and bad writing.,negative,film horrible disappointing performance bad writing,0
+Outstanding movie with incredible acting and a gripping storyline.,positive,outstanding movie incredible acting gripping storyline,1
+Wonderful movie with great emotional depth and stunning visuals.,positive,wonderful movie great emotional depth stunning visuals,1
+Bad movie with weak character arcs and no emotional resonance.,negative,bad movie weak character arc emotional resonance,0
+Awful film that was a complete waste of time. Not recommended!,negative,awful film complete waste time recommended,0
+This film is horrible with bad cinematography and awful music.,negative,film horrible bad cinematography awful music,0
+Disappointing film with poor direction and terrible cinematography.,negative,disappointing film poor direction terrible cinematography,0
+Amazing movie with brilliant performances and excellent writing.,positive,amazing movie brilliant performance excellent writing,1
+Excellent movie with amazing direction and compelling character development.,positive,excellent movie amazing direction compelling character development,1
+Outstanding film with brilliant acting and stunning visual effects.,positive,outstanding film brilliant acting stunning visual effect,1
+This is a terrible movie with bad plot twists and awful acting.,negative,terrible movie bad plot twist awful acting,0
+Great film with outstanding performances and brilliant direction.,positive,great film outstanding performance brilliant direction,1
+I loved every minute of this film. Great cinematography and excellent direction.,positive,loved every minute film great cinematography excellent direction,1
+Wonderful film with great emotional impact and stunning visuals.,positive,wonderful film great emotional impact stunning visuals,1
+Incredible film with great character development and stunning visuals.,positive,incredible film great character development stunning visuals,1
+This film is wonderful with outstanding performances and great writing.,positive,film wonderful outstanding performance great writing,1
+Excellent film with great pacing and outstanding cinematography.,positive,excellent film great pacing outstanding cinematography,1
+Bad movie with awful cinematography and terrible music score.,negative,bad movie awful cinematography terrible music score,0
+This movie is simply awful with terrible performances throughout.,negative,movie simply awful terrible performance throughout,0
+This movie is simply brilliant with amazing performances throughout.,positive,movie simply brilliant amazing performance throughout,1
+This movie is awful with bad storytelling and forgettable moments.,negative,movie awful bad storytelling forgettable moment,0
+Incredible movie with fantastic acting and a compelling narrative.,positive,incredible movie fantastic acting compelling narrative,1
+Amazing storyline with brilliant performances. Highly recommended!,positive,amazing storyline brilliant performance highly recommended,1
+Disappointing film with poor acting and bad visual effects.,negative,disappointing film poor acting bad visual effect,0
+Bad movie with terrible performances and poor writing.,negative,bad movie terrible performance poor writing,0
+Fantastic film with excellent direction and outstanding cinematography.,positive,fantastic film excellent direction outstanding cinematography,1
+One of the worst movies I've ever seen. Complete disaster.,negative,one worst movie ive ever seen complete disaster,0
+This film is a work of art. Beautiful cinematography and great music.,positive,film work art beautiful cinematography great music,1
+Amazing movie with excellent direction and stunning visual effects.,positive,amazing movie excellent direction stunning visual effect,1
+Terrible movie with disappointing direction and bad cinematography.,negative,terrible movie disappointing direction bad cinematography,0
+Amazing film with brilliant performances and excellent character development.,positive,amazing film brilliant performance excellent character development,1
+Waste of time and money. The storyline is boring and predictable.,negative,waste time money storyline boring predictable,0
+Horrible movie with poor character development and bad cinematography.,negative,horrible movie poor character development bad cinematography,0
+Amazing film with excellent performances and outstanding production values.,positive,amazing film excellent performance outstanding production value,1
+This is a must-watch movie. Great plot twists and amazing performances.,positive,mustwatch movie great plot twist amazing performance,1
+Terrible film with poor acting and a boring storyline.,negative,terrible film poor acting boring storyline,0
+This movie is a disaster with poor attention to detail.,negative,movie disaster poor attention detail,0
+Terrible film with poor performances and disappointing production values.,negative,terrible film poor performance disappointing production value,0
+Terrible movie with awful direction and weak character development.,negative,terrible movie awful direction weak character development,0
+Terrible movie with awful direction and bad cinematography.,negative,terrible movie awful direction bad cinematography,0
+Horrible film with terrible performances and awful direction.,negative,horrible film terrible performance awful direction,0
+This film is absolutely terrible with bad character chemistry.,negative,film absolutely terrible bad character chemistry,0
+This movie is a masterpiece with incredible attention to detail.,positive,movie masterpiece incredible attention detail,1
+Outstanding film with brilliant acting and a compelling story.,positive,outstanding film brilliant acting compelling story,1
+Excellent film with incredible acting and a compelling narrative.,positive,excellent film incredible acting compelling narrative,1
+This movie is terrible. Poor acting and a confusing plot.,negative,movie terrible poor acting confusing plot,0
+Bad movie with a predictable plot and forgettable characters.,negative,bad movie predictable plot forgettable character,0
+Terrible film with awful dialogue and mediocre performances.,negative,terrible film awful dialogue mediocre performance,0
+Awful film with poor performances and weak character development.,negative,awful film poor performance weak character development,0
+Terrible film with poor performances and awful direction.,negative,terrible film poor performance awful direction,0
+Masterpiece! The dialogue is witty and the acting is phenomenal.,positive,masterpiece dialogue witty acting phenomenal,1
+Excellent movie with great character arcs and emotional resonance.,positive,excellent movie great character arc emotional resonance,1
+Incredible film with amazing performances and excellent production values.,positive,incredible film amazing performance excellent production value,1
+This movie is incredible with great storytelling and memorable moments.,positive,movie incredible great storytelling memorable moment,1
+This movie is simply bad with weak story and poor execution.,negative,movie simply bad weak story poor execution,0
+Amazing movie with brilliant direction and stunning cinematography.,positive,amazing movie brilliant direction stunning cinematography,1
+Brilliant movie with great character arcs and emotional depth.,positive,brilliant movie great character arc emotional depth,1
+Disappointing film with terrible emotional impact and bad visuals.,negative,disappointing film terrible emotional impact bad visuals,0
+This movie is terrible with bad direction and forgettable dialogue.,negative,movie terrible bad direction forgettable dialogue,0
+This is a horrible film with weak character development.,negative,horrible film weak character development,0
+Amazing movie with brilliant cinematography and great music score.,positive,amazing movie brilliant cinematography great music score,1
+This movie is absolutely fantastic! The acting is superb and the plot is engaging.,positive,movie absolutely fantastic acting superb plot engaging,1
+Disappointing film with bad storytelling and poor production quality.,negative,disappointing film bad storytelling poor production quality,0
+Excellent movie with a compelling story and great special effects.,positive,excellent movie compelling story great special effect,1
+Terrible film with bad acting and a boring story.,negative,terrible film bad acting boring story,0
+Bad film with awful performances and poor production values.,negative,bad film awful performance poor production value,0
+This movie is fantastic with great dialogue and memorable moments.,positive,movie fantastic great dialogue memorable moment,1
+Bad film with poor acting and a boring narrative.,negative,bad film poor acting boring narrative,0
+Wonderful film that kept me engaged throughout. Brilliant acting!,positive,wonderful film kept engaged throughout brilliant acting,1
+This movie is simply amazing. Great story and excellent execution.,positive,movie simply amazing great story excellent execution,1
+This movie is outstanding with great direction and memorable dialogue.,positive,movie outstanding great direction memorable dialogue,1
+Brilliant movie with amazing performances and a gripping plot.,positive,brilliant movie amazing performance gripping plot,1
+Amazing film that exceeded all my expectations. Highly recommended!,positive,amazing film exceeded expectation highly recommended,1
+This film is awful with poor acting and a predictable storyline.,negative,film awful poor acting predictable storyline,0
+Awful movie with poor acting and a boring narrative.,negative,awful movie poor acting boring narrative,0

@@ -1,0 +1,45 @@
+# Core libraries
+streamlit==1.47.0
+pandas==2.3.1
+numpy==2.3.1
+scikit-learn==1.7.0
+
+# Visualization libraries
+matplotlib==3.10.3
+seaborn==0.13.2
+wordcloud==1.9.4
+plotly==6.2.0
+
+# Natural Language Processing
+vaderSentiment==3.3.2
+textblob==0.19.0
+nltk==3.9.1
+
+# Web scraping and HTTP
+beautifulsoup4==4.13.4
+requests==2.32.4
+
+# Additional dependencies (automatically installed with above packages)
+# scipy>=1.8.0
+# joblib>=1.2.0
+# threadpoolctl>=3.1.0
+# pillow>=8.0.0
+# python-dateutil>=2.8.2
+# pytz>=2020.1
+# tzdata>=2022.7
+# click>=7.0
+# regex>=2021.8.3
+# tqdm
+# soupsieve
+# typing-extensions
+# altair
+# blinker
+# cachetools
+# gitpython
+# protobuf
+# pyarrow
+# pydeck
+# tenacity
+# toml
+# tornado
+# watchdog
